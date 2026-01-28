@@ -397,11 +397,11 @@ const Footer = () => {
       target="_blank"
       rel="noopener noreferrer"
     >
-      Made with{" "}
+      From{" "}
       <span role="img" aria-label="heart">
         ❤️
       </span>
-      {" "}by Ujjwal
+      {" "}Ganesh
     </a>
   );
 };

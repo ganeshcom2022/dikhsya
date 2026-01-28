@@ -247,7 +247,7 @@ export default function Page() {
   useEffect(() => {
     if (yesPressed && noCount < 4 && !popupShown) {
       Swal.fire({
-        title: "I love you sooo Much!!!❤️, You’ve stolen my heart completely!!! 🥰💖 But itni pyaari ladki aur itni jaldi haan? Thoda aur nakhre karke mujhe tarpaao na! 🥰✨",
+        title: "I love you sooo Much!!!❤️, You’ve stolen my heart completely!!! 🥰💖But you’re saying yes so quickly? Come on, tease me a little more and make me wait!! 🥰✨",
         showClass: {
           popup: `
             animate__animated
@@ -274,7 +274,7 @@ export default function Page() {
   useEffect(() => {
     if (yesPressed && noCount > 3 && !yespopupShown) {
       Swal.fire({
-        title: "I love you so much!! ❤️ You are my everything, my joy, my forever. Every moment with you is a memory I’ll cherish forever, and my heart beats only for you.</br> Will you be the love of my life forever?",
+        title: "I love you so much!! ❤️ You are my everything, my joy, my forever. Every moment with you is a memory I’ll cherish forever, and my heart beats only for you.</br> Will you be the love of my life forever?     Ganesh",
         width: 800,
         padding: "2em",
         color: "#716add",
